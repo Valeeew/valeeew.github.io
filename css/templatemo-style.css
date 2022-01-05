@@ -17,7 +17,7 @@ p {
 }
 
 .page-content {
-  width: 77.5%;
+  width: 75%;
   float: right;
 }
 
@@ -34,6 +34,10 @@ p {
   -ms-transform: translateX(-50%);
   -o-transform: translateX(-50%);
   transform: translateX(-50%);
+}
+
+.visible {
+color: #1FD673
 }
 
 .section-heading {
