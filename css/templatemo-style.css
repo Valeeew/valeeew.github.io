@@ -57,7 +57,7 @@ color: #1FD673
 .section-heading em {
   font-style: normal;
   font-weight: 700;
-  color: #45489a;
+  color: #069D4F;
 }
 
 .section-heading p {
@@ -72,7 +72,7 @@ color: #1FD673
 .white-button a {
   font-size: 13px;
   font-weight: 600;
-  color: #45489a;
+  color: #069D4F;
   text-transform: capitalize;
   background-color: #fff;
   display: inline-block;
@@ -85,7 +85,7 @@ color: #1FD673
 }
 
 .white-button a:hover {
-  background-color: #45489a;
+  background-color: #069D4F;
   color: #fff;
 }
 
@@ -94,7 +94,7 @@ color: #1FD673
   font-weight: 600;
   color: #fff;
   text-transform: capitalize;
-  background-color: #45489a;
+  background-color: #069D4F;
   display: inline-block;
   height: 44px;
   line-height: 44px;
@@ -106,7 +106,7 @@ color: #1FD673
 
 .accent-button a:hover {
   background-color: #fff;
-  color: #45489a;
+  color: #069D4F;
 }
 
 header {
@@ -312,11 +312,17 @@ header {
 }
 
 .sidebar-navigation .social-icons li a:hover {
-  color: #45489a;
+  color: #FFF;
 }
 
 
 /* Slider Style */
+
+.profile-pic{
+  height: 300px;
+  width: 300px;
+  margin-bottom: 10px;
+}
 
 .slider .content-section {
   padding-top: 0px;
@@ -495,7 +501,7 @@ h2
 }
 
 #featured .owl-dots .active span {
-  background-color: #45489a!important;
+  background-color: #069D4F!important;
 }
 
 #featured .owl-dots button {
@@ -531,7 +537,7 @@ h2
 }
 
 #featured .owl-nav span:hover {
-  background-color: #45489a;
+  background-color: #069D4F;
   color: #fff;
 }
 
@@ -745,7 +751,7 @@ h2
   height: 90px;
   width: 100%;
   background-color: #eee;
-  border-bottom: 10px solid #45489a;
+  border-bottom: 10px solid #069D4F;
 }
 
 #blog .tabs li {
@@ -771,7 +777,7 @@ h2
 }
 
 #blog .tabs a:hover {
-  color: #45489a;
+  color: #069D4F;
 }
 
 
@@ -780,7 +786,7 @@ h2
 }
 
 #blog .tabs .active {
-  background-color: #45489a;
+  background-color: #069D4F;
   color: #fff;
 }
 
@@ -899,7 +905,7 @@ h2
   font-weight: 600;
   color: #fff;
   text-transform: capitalize;
-  background-color: #45489a;
+  background-color: #069D4F;
   display: inline-block;
   height: 44px;
   line-height: 24px;
