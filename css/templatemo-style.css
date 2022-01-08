@@ -471,27 +471,27 @@ h2
 
 /* Featured Style */
 
-#featured {
+#resume {
   padding-left: 60px;
   padding-right: 60px;
   padding-bottom: 80px;
   border-bottom: 1px solid #eee;
 }
 
-#featured .section-heading {
+#resume .section-heading {
   margin-right: 20%;
 }
 
-#featured .content-section {
+#resume .content-section {
   display: inline-block;
   position: relative;
 }
 
-#featured .owl-dots {
+#resume .owl-dots {
   margin-top: 40px;
 }
 
-#featured .owl-dots .owl-dot span  {
+#resume .owl-dots .owl-dot span  {
   width: 12px;
   height: 12px;
   background-color: #cdcdcd!important;
@@ -500,30 +500,30 @@ h2
   margin: 0 3px;
 }
 
-#featured .owl-dots .active span {
+#resume .owl-dots .active span {
   background-color: #069D4F!important;
 }
 
-#featured .owl-dots button {
+#resume .owl-dots button {
   outline: none;
 }
 
-#featured .owl-nav {
+#resume .owl-nav {
   position: absolute;
   display: inline-block;
   top: -110px;
   right: 0;
 }
 
-#featured .owl-nav button:focus {
+#resume .owl-nav button:focus {
   outline: none;
 }
 
-#featured .owl-nav .owl-prev span {
+#resume .owl-nav .owl-prev span {
   margin-right: 10px;
 }
 
-#featured .owl-nav .owl-next span, #featured .owl-nav .owl-prev span {
+#resume .owl-nav .owl-next span, #resume .owl-nav .owl-prev span {
   outline: none;
   width: 50px;
   height: 50px;
@@ -536,27 +536,27 @@ h2
   transition: all 0.5s;
 }
 
-#featured .owl-nav span:hover {
+#resume .owl-nav span:hover {
   background-color: #069D4F;
   color: #fff;
 }
 
-#featured .item {
+#resume .item {
   text-align: left;
   position: relative;
   z-index: 10;
 }
 
-#featured .item .image {
+#resume .item .image {
   position: relative;
 }
 
-#featured .item .image img {
+#resume .item .image img {
   width: 100%;
   overflow: hidden;
 }
 
-#featured .item .image .featured-button a {
+#resume .item .image .featured-button a {
   font-size: 13px;
   font-weight: 600;
   color: #fff;
@@ -576,19 +576,19 @@ h2
   opacity: 0;
 }
 
-#featured .item:hover .featured-button a {
+#resume .item:hover .featured-button a {
   bottom: 0;
   opacity: 1;
 }
 
-#featured .item .text-content {
+#resume .item .text-content {
   padding-top: 20px;
   background-color: #fff;
   position: relative;
   z-index: 10;
 }
 
-#featured .item .text-content h4 {
+#resume .item .text-content h4 {
   margin-top: 0px;
   margin-bottom: 5px;
   font-size: 21px;
@@ -597,7 +597,7 @@ h2
   letter-spacing: 0.5px;
 }
 
-#featured .item .text-content span {
+#resume .item .text-content span {
   display: inline-block;
   font-size: 15px;
   font-weight: 600;
@@ -1048,7 +1048,7 @@ h2
     padding-right: 15px;
   }
 
-  #featured .owl-nav {
+  #resume .owl-nav {
     position: absolute;
     display: inline-block;
     top: -220px;
