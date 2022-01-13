@@ -918,10 +918,17 @@ h2
 }
 
 #contact button:hover {
-  color: #232323;
-  background-color: #f4f4f4;
+  background-color: #1f1f1f;
 }
 
+.Hi{
+  text-transform: uppercase;
+  color: #FFF;
+}
+
+.Hi button:hover{
+  color: #069D4F;
+}
 
 
 /* Footer Style */
