@@ -318,6 +318,10 @@ header {
 
 /* Slider Style */
 
+.bg{
+  background-color: rgba(31,31,31,1);
+}
+
 .profile-pic{
   height: 300px;
   width: 300px;
@@ -429,15 +433,15 @@ h2
 }
 
 .Modern-Slider .item-1 .image {
-  background-image: url(../img/slide_1.jpg);
+  background-image: url(../img/giphy_city.gif);
 }
 
 .Modern-Slider .item-2 .image {
-  background-image: url(../img/slide_2.jpg);
+  background-image: url(../img/giphy_city.gif);
 }
 
 .Modern-Slider .item-3 .image {
-  background-image: url(../img/slide_3.jpg);
+  background-image: url(../img/giphy_city.gif);
 }
 
 .Modern-Slider .PrevArrow:before{content:'\f104';}
