@@ -17,7 +17,7 @@ p {
 }
 
 .page-content {
-  width: 75%;
+  width: 78%;
   float: right;
 }
 
@@ -636,6 +636,29 @@ h2
   opacity: 0.5;
 }
 
+.page-content #projects{
+  background-color: #232323;
+}
+
+#projects h1{
+  color:#FFF;
+}
+
+#projects p{
+  color: #fff;
+}
+
+#projects h3{
+  color: #1FD673;
+  text-align: left;
+  position: absolute;
+  bottom: -1px;
+  left: -1px;
+  font-size: 35px;
+  text-shadow: 2px -2px #232323 ;
+  font-weight: bold;
+  text-transform: uppercase;
+}
 
 
 /* Video Presentation Style */
